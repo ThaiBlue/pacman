@@ -1,0 +1,34 @@
+{
+  "pacman": {
+    "x": 13,
+    "y": 22
+  },
+  "blinky": {
+    "x": 12,
+    "y": 13
+  },
+  "pinky": {
+    "x": 15,
+    "y": 13
+  },
+  "inky": {
+    "x": 12,
+    "y": 14
+  },
+  "clyde": {
+    "x": 15,
+    "y": 14
+  },
+  "cherry": [
+    {
+      "x": 13,
+      "y": 16,
+      "symbol": "\uD83C\uDF52",
+      "points": 100
+    }
+  ],
+  "standing_start_announcement": {
+    "x": 14,
+    "y": 16
+  }
+}
