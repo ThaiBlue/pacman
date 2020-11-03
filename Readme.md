@@ -32,14 +32,14 @@
 * The game requires python 3.8 or [later](https://www.python.org/).
 
 ## Installation
-* Download from github: https://github.com/intek-training-jsc/pac-man-tcthai
+* Download from github: https://github.com/ThaiBlue/pacman.git
 * Clone from github: 
 ```
-$ git clone https://github.com/intek-training-jsc/pac-man-tcthai
+$ git clone https://github.com/ThaiBlue/pacman.git
 ```
 or
 ```
-$ git clone https://github.com/intek-training-jsc/pac-man-tcthai.git 
+$ git clone https://github.com/ThaiBlue/pacman.git
 ```
 
 ## Usage
